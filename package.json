@@ -1,0 +1,13 @@
+{
+	"name": "node-farm",
+	"version": "1.0.0",
+	"description": "Sample webapp made to learn Node.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Rodrigo de Oliveira",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {}
+}

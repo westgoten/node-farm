@@ -25,4 +25,4 @@ HTML templates provided by [Jonas Schmedtmann](https://twitter.com/jonasschmedtm
 
 ## License
 
-Read about license rights and limitations [here]().
+Read about license rights and limitations [here](LICENSE).

@@ -2,7 +2,12 @@
 
 _Sample webapp made to learn Node.js_
 
-Take a look at [IstillHaveToDeployThis.com]()
+![overview](./screenshots/overview.png)
+
+## How to run
+
+-   Open your terminal on root folder and type `npm start`
+-   Visit the address `localhost:8000` on your browser
 
 ## Features
 
@@ -16,8 +21,7 @@ Take a look at [IstillHaveToDeployThis.com]()
 
 ## Note
 
-I worked only on the backend of this project. The HTML templates were provided by
-[Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
+HTML templates provided by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
 
 ## License
 
